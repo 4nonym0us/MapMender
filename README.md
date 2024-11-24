@@ -1,7 +1,9 @@
-# MapMender
+# MapMender | [Download](https://github.com/4nonym0us/MapMender/releases/latest/download/MapMender.exe)
 A tool to fix broken Warcraft 3 maps after Reforged 2.0 release (November 13, 2024):
 - Fixes invisible/transparent units/buildings
 - Fixes `R2S`/`R2SW` functions (incorrect number display, broken scripts)
+
+
 
 ## Usage
 
