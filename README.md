@@ -1,9 +1,9 @@
+ **Archived**: all issues were finally silently fixed in Reforged [2.0.1](https://us.forums.blizzard.com/en/warcraft3/t/warcraft-iii-reforged-patch-notes-version-201/33148) after a month since Reforged 2.0 release. Better late than never I guess.
+
 # MapMender | [Download](https://github.com/4nonym0us/MapMender/releases/latest/download/MapMender.exe)
 A tool to fix broken Warcraft 3 maps after Reforged 2.0 release (November 13, 2024):
 - Fixes invisible/transparent units/buildings
 - Fixes `R2S`/`R2SW` functions (incorrect number display, broken scripts)
-
-
 
 ## Usage
 
